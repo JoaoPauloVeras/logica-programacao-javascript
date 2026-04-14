@@ -1,0 +1,7 @@
+Este repositório contém meus estudos iniciais de JavaScript.
+
+### 🔑 Sistema de Login (Exercício 1)
+Neste exercício, pratiquei:
+- **Laços de Repetição**: Uso do `for` para limitar as tentativas.
+- **Estruturas Condicionais**: Verificação de senha com `if/else`.
+- **Controle de Fluxo**: Interrupção do loop com `break` após o acerto.
